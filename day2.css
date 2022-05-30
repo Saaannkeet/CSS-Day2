@@ -1,0 +1,10 @@
+.b{
+   width: 100px;
+   height: 100px;
+   border:2px solid red;
+   border-radius: 10px;
+   background-color: aqua;
+}
+.bg{
+    background-image: url(sky.jpg);
+}
